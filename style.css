@@ -17,8 +17,13 @@ p {
   display: flex;
   flex-direction: column;
   justify-content: space-around;
+  width: 600px;
+  
+  margin: 0 auto;
 }
 
 img {
-  max-width: 100px;
+  margin: 0 auto;
+  margin-bottom: 10px;
+  max-width: 200px;
 }
