@@ -1,0 +1,8 @@
+-add 3 paragraph
+-add 2 images
+-add styles:
+  - add background
+  - add font
+-remove second paragraph and delete first photo
+-add new photo
+-change background
